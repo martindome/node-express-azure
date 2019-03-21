@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/linkedinlearning/Getting Started/_apis/build/status/martindome.node-express-azure?branchName=master)](https://dev.azure.com/linkedinlearning/Getting Started/_build/latest?definitionId=1&branchName=master)
+
 # Node & Express Demo App for Azure DevOps
 
 > Build Your First CI/CD Pipeline using Azure DevOps with this Demo App.
